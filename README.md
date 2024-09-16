@@ -14,4 +14,4 @@ This is an example of [my code](https://gist.github.com/Juniverze/2d708c0f4ca560
 This is the [notebook](https://github.com/Juniverze/technical-discussion/blob/a248b5581cbad49f230de225a2de83bc4e8973e0/technical_docs.ipynb)
 
 ### Images
-[https://github.com/Juniverze/technical-discussion/issues/1#issue-2529686260]
+![https://github.com/Juniverze/technical-discussion/issues/1#issue-2529686260]
